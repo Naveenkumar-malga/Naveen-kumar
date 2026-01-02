@@ -14,10 +14,11 @@ My interest leads to develop a passion for cybersecurity and I am now eager to t
 |-----------------------------------------------|----------------------------|
 | Phishing Analysis          | <a href="https://github.com/Naveenkumar-malga/Phishing-Analysis">Home Lab</a>|
 | Network Traffic Analysis | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Endpoint security         | SOC Automation Lab|
+| Security information and evevnt management (SIEM)      | SOC Automation Lab|
+| Investigated Alerts                 | SOC Automation Lab|
+| Detected and responded to threats | SOC Automation Lab|
+| Learned basics           | soc |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
